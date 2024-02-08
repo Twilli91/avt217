@@ -1,6 +1,32 @@
 body {
-	background-color: dimgrey;
-	font-size: 20px;
-	margin-left: 35px;
+	background-color: black;
+	margin-left: 50px;
+	margin-top: 50px;
 	color: whitesmoke;
+	font-family: "cofo-gothic-variable", sans-serif;
+	font-variation-settings: "wght" 400;
+}
+a:link {
+	color: darkred;
+}
+a:visited {
+	color: darkred;
+}
+a {
+	text-decoration: none;
+}
+h1 {
+	font-size: 75px;
+	text-align: center;
+}
+h2 {
+	font-size: 35px;
+	line-height: 1;
+}
+li {
+	font-size: 25px;
+	line-height: 1.2;
+}
+a:hover {
+	color: ghostwhite;
 }

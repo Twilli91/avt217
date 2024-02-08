@@ -4,26 +4,20 @@ body {
 	color: whitesmoke;
 	margin-top: 250px;
 	font-family: "cofo-gothic-variable", sans-serif;
-font-variation-settings: "wght" 400;
+	font-variation-settings: "wght" 400;
 }
 p {
 	font-size: 225px;
 	font: fantasy;
 	font-weight: bold;
 	text-align: center;
-	font-family: "cofo-gothic-variable", sans-serif;
-font-variation-settings: "wght" 400;
 }
 h1 {
 	font-size: 125px;
 	text-align: center;
-	font-family: "cofo-gothic-variable", sans-serif;
-font-variation-settings: "wght" 400;
 }
 h2 {
 	text-align: center;
-	font-family: "cofo-gothic-variable", sans-serif;
-font-variation-settings: "wght" 400;
 }
 a {
 	text-decoration: none;
