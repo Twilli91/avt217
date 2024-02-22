@@ -1,0 +1,29 @@
+body {
+	background-color: #004687;
+	color: whitesmoke;
+	font-family: "cofo-gothic-variable", sans-serif;
+	margin-right: 800px;
+	margin-left: 100px;
+}
+p, li {
+	margin-left: 150px;
+	font-size: 17px;
+}
+
+h1 {
+	font-size: 75px;
+}
+
+.description {
+	margin-left: 15px;
+}
+
+h2 {
+	margin-left: 65px;
+	font-size: 35px;
+}
+
+h3 {
+	margin-left: 65px;
+	font-size: 24px;
+}
