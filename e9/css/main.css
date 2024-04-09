@@ -1,0 +1,39 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0px;
+}
+
+/* first pattern classes/IDs */ 
+.tile1 {
+	width: 100px;
+	height: 100px;
+	float: left;
+	background-color: black;
+	margin: 0px;
+	transform: rotateZ(45deg);	
+	border-bottom-right-radius: 45%;
+	border-top-left-radius: 45%;
+	transform: skewX(54deg);
+	border: 10px dashed whitesmoke;
+}
+
+.tile2 {
+	width: 100px;
+	height: 100px;
+	float: left;
+	background-color: whitesmoke;
+	margin: 0px;
+	transform: rotateZ(45deg);	
+	border-bottom-right-radius: 45%;
+	border-top-left-radius: 45%;
+	transform: skewX(54deg);
+	border: 10px dashed black;
+}
+
+#main1 {
+	background-color: firebrick;
+	margin: 25px;
+}
